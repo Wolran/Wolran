@@ -12,7 +12,7 @@
 
 👨‍💻 The most of my dev projects can be viewed on my git [Wolran](https://github.com/Wolran)
 
-📫 Hyou can reach me **valentin@vmuller.fr**
+📫 You can reach me **valentin@vmuller.fr**
 
 </div>
 
