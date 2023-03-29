@@ -1,6 +1,6 @@
 
 <h2 align="center">Wolran / vmuller </h2>
-<h3 align="center">Back end developer |  from France </h3>
+<h3 align="center">Developer from France </h3>
 
 
 <div align="center">
