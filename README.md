@@ -8,7 +8,7 @@
 
 🌱 I’m currently student at [@42School](https://github.com/42School)
 
-👯 I’m currently collaborate with [Alde-fre](https://github.com/ForAbby-X)  on [Cub3d](https://github.com/ForAbby-X/cube3D) project 
+👯 I’m currently collaborate with [Alde-fre](https://github.com/ForAbby-X)  on [Cub3d](https://github.com/Wolran/cube3D) project 
 
 👨‍💻 The most of my dev projects can be viewed on my git [Wolran](https://github.com/Wolran)
 
