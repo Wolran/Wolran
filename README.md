@@ -1,16 +1,16 @@
 
 <h2 align="center">Wolran / vmuller </h2>
-<h3 align="center">Developer from France </h3>
+<h3 align="center">Low-level developer, from France </h3>
 
 
 <div align="center">
 
 
-🌱 I’m currently student at [@42School](https://github.com/42School)
+Student at [@42School](https://github.com/42School)
 
-👯 I’m currently collaborate with [Alde-fre](https://github.com/ForAbby-X)  on [Cub3d](https://github.com/Wolran/cub3D) project 
+My lasted completed project [Cub3d](https://github.com/Wolran/cub3D) in collaboration with [Alde-fre](https://github.com/ForAbby-X)
 
-👨‍💻 The most of my dev projects can be viewed on my git [Wolran](https://github.com/Wolran)
+The most of my dev projects can be viewed on my git [Wolran](https://github.com/Wolran)
 
 📫 You can reach me **valentin@vmuller.fr** or on my discord **Wolran_dev**
 
