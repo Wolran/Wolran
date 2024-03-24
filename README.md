@@ -8,6 +8,8 @@
 
 Student at [@42School](https://github.com/42School)
 
+I’m currently collaborate with [Alde-fre](https://github.com/ForAbby-X) and [Tgernez](https://github.com/Plaetorius) on [ft_trancendence](https://github.com/Plaetorius/ft_transcendence) project
+
 My lasted completed project [Cub3d](https://github.com/Wolran/cub3D) in collaboration with [Alde-fre](https://github.com/ForAbby-X)
 
 The most of my dev projects can be viewed on my git [Wolran](https://github.com/Wolran)
