@@ -14,7 +14,7 @@ My lasted completed project [Cub3d](https://github.com/Wolran/cub3D) in collabor
 
 The most of my dev projects can be viewed on my git [Wolran](https://github.com/Wolran)
 
-📫 You can reach me **valentin@vmuller.fr** or on my discord **Wolran_dev**
+📫 You can reach me at **valentin@vmuller.fr** or on my discord **Wolran_dev**
 
 </div>
 
