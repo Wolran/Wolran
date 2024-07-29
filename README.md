@@ -8,9 +8,9 @@
 
 Student at [@42School](https://github.com/42School)
 
-I’m currently working on a Cybersecurity project  [OverRide](https://github.com/Wolran/OverRide)
+I’m currently working on a Cybersecurity project
 
-My lasted completed project [Rainfall](https://github.com/Wolran/rainfall)
+My lasted completed project [OverRide](https://github.com/Wolran/OverRide)
 
 The most of my dev projects can be viewed on my git [Wolran](https://github.com/Wolran)
 
